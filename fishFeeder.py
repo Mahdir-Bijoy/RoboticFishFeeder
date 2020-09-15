@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 15 15:05:15 2020
-
-@author: HP
-"""
 
 import datetime
 import RPi.GPIO as GPIO
